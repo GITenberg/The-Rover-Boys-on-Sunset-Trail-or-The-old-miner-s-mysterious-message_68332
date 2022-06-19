@@ -1,0 +1,32 @@
+_repo: The-Rover-Boys-on-Sunset-Trail-or-The-old-miner-s-mysterious-message_68332
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Winfield, Arthur M.
+    - Steward, Ray M.
+    - Bonehill, Ralph
+    - Bonehill, Captain Ralph
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: ''
+gutenberg_issued: '2022-06-17'
+identifiers:
+  gutenberg: '68332'
+language: en
+pgterms:marc905: 20190621173740winfield
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Donald Cummings and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: United States :Grosset & Dunlap Publishers,1925.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Rover Boys on Sunset Trail: or, The old miner''s mysterious message'
+url: http://www.gutenberg.org/ebooks/68332
